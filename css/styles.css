@@ -1,0 +1,28 @@
+.bg-danger {
+    background-color: #006600!important;
+}
+.social-icons {
+    width: 20%;
+}
+a {
+    color: black;
+}
+a:hover {
+    color: gray;
+    text-decoration: none;
+}
+@media screen and (min-width: 768px) {
+    .social-icons {
+        width: 20%;
+    }
+}
+@media screen and (min-width: 992px) {
+    .social-icons {
+        width: 15%;
+    }
+}
+@media screen and (min-width: 1200px) {
+    .social-icons {
+        width: 12%;
+    }
+}
