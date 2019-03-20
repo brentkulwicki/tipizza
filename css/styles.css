@@ -1,6 +1,15 @@
 .bg-danger {
     background-color: #006600!important;
 }
+#main-header {
+    text-align: center;
+    font-size: 3.6rem;
+    background-color: #dc3545;
+    display: block;
+    width: 380px;
+    margin-left: auto;
+    margin-right: auto;
+}
 .social-icons {
     width: 20%;
 }
